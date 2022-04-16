@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Charlie 👋
 
+- 🔭 I’m currently working on Sabre Corporation as a Technical Support Specialist.
+- 🌱 I’m currently learning JavaScript
 <!--
 **CarlosPereiraTI/CarlosPereiraTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
