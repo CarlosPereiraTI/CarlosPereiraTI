@@ -5,6 +5,7 @@
 - 🖥️ I like to work with Python and Django.
 - 📫 How to reach me: carlospereira.ti@gmail.com
 - :clipboard: LnkedIn profile: https://www.linkedin.com/in/ruy-carlos-pereira-larrosa-362493164/
+- 💻 GitHub Gists: https://gist.github.com/CarlosPereiraTI
 <!--
 **CarlosPereiraTI/CarlosPereiraTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
