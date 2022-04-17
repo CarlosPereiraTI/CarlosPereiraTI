@@ -1,8 +1,8 @@
 ### Hi there, I'm Charlie 👋
 
 - 🔭 I’m currently working on Sabre Corporation as a Technical Support Specialist.
-- 🌱 I’m currently learning JavaScript.
 - 🖥️ I like to work with Python and Django.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: carlospereira.ti@gmail.com
 - 💻 GitHub Gists: https://gist.github.com/CarlosPereiraTI
 
