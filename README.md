@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Sabre Corporation as a Technical Support Specialist.
 - 🖥️ I like to work with Python and Django.
-- 🌱 I’m currently learning JavaScript.
+- :man_technologist: I’m currently learning JavaScript.
 - 📫 How to reach me: carlospereira.ti@gmail.com
 - 💻 GitHub Gists: https://gist.github.com/CarlosPereiraTI
 
