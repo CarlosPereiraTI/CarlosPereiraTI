@@ -1,6 +1,6 @@
 ### Hi there, I'm Charlie 👋
 
-- 🔭 I’m currently working on Sabre Corporation as a Technical Support Specialist.
+- 🔭 I’m currently working on Sabre Global Services (Uruguay) as a Technical and Red Apps Support specialist.
 - 🖥️ I like to work with Python and Django.
 - :man_technologist: I’m currently learning JavaScript.
 - 📫 How to reach me: carlospereira.ti@gmail.com
