@@ -26,3 +26,5 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospereirati&show_icons=true&locale=en" alt="carlospereirati" /></p> -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlospereirati&show_icons=true&locale=en&layout=compact" alt="carlospereirati" /></p>
+
