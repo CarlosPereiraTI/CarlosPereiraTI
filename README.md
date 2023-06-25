@@ -1,7 +1,7 @@
 ### Hi there, I'm Charlie 👋
 
 - 🔭 I’m currently working on Sabre Global Services (Uruguay) as a Technical and Red Apps Support specialist.
-- 🖥️ I like to work with Python, Django, FastAPI, and so on.
+- 🖥️ I like to work with Python, and I'm currently learning TypeScript.
 - 📫 How to reach me: carlospereira.ti@gmail.com
 - 💻 GitHub Gists: https://gist.github.com/CarlosPereiraTI
 
